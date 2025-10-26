@@ -6,6 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+---
+![](images/banner.jpg)
 
 > **A comprehensive travel booking platform for buses, trains, and airlines with an intuitive user interface and seamless booking experience.**
 
